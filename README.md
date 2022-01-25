@@ -1,0 +1,2 @@
+# DjangoDocker
+For education purpose
